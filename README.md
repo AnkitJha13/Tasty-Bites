@@ -60,8 +60,17 @@ The Food Recipe App is built using the following technologies:
 - JavaScript: Adds interactivity and dynamic features.
 - External APIs: Utilizes external data sources for a diverse recipe collection.
 
-# Installation
+# Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-If you want to run the Food Recipe App locally, follow these steps:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and test thoroughly.
+- Submit a pull request explaining your changes.
+  
+# Contact
+If you have any questions or suggestions, feel free to reach out to the me .
 
-1. Clone this repository to your local machine:
+- Name: ANKIT KUMAR JHA
+- Email: ankitjha1403@gmail.com
+Thank you for using our TastyBites application!
