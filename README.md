@@ -7,10 +7,13 @@ The Food Recipe App is a web application that offers users an extensive collecti
 You can access the Food Recipe App by following this link: [TastyBites](https://tastybitess.netlify.app/)
 
 # Screenshots
+![1](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/85d0b959-f9a7-408b-b360-fffc77db30ea)
 
-![Screenshot 1](https://github.com/YourUsername/YourRepoName/assets/screenshot1.png)
+![2](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/0d6bba70-ac1d-4cbb-97a5-e61061cdf86e)
 
-![Screenshot 2](https://github.com/YourUsername/YourRepoName/assets/screenshot2.png)
+![3](https://github.com/AnkitJha13/Tasty-Bites/assets/116744896/1f81452c-90a1-47cf-b911-999bd3a71608)
+
+
 
 ## Features
 
