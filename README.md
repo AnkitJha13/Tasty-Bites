@@ -1,6 +1,8 @@
 # Food Recipe App
 
-The Food Recipe App is a web application that offers users an extensive collection of recipes for various dishes. It provides a user-friendly platform to explore, discover, and cook delicious meals. This README provides an overview of the app's features, usage, technologies used, installation instructions, and how to contribute.
+- The Food Recipe App is a web application that offers users an extensive collection of recipes for various dishes.
+- It provides a user-friendly platform to explore, discover, and cook delicious meals.
+- This README provides an overview of the app's features, usage, technologies used, installation instructions, and how to contribute.
 
 ## Website Link
 
