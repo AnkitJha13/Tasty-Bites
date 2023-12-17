@@ -1,3 +1,5 @@
+
+//Querying the DOM elements first
 const searchBox = document.querySelector(".searchBox");
 const searchBtn = document.querySelector(".searchBtn");
 const recipeContainer = document.querySelector(".recipe-container");
@@ -42,6 +44,7 @@ const fetchRecipes = async (query) => {
   }
 
 }
+
 //function to fetch ingredients
 const fetchIngredients = (meal) => {
   let ingredientList = "";
@@ -58,6 +61,7 @@ const fetchIngredients = (meal) => {
   return ingredientList;
 }
 
+//recipe popup function
 const openRecipePopup = (meal) => {
   recipeDetailsContent.innerHTML = `
    <h2 class="recipeName"> ${meal.strMeal}</h2>
