@@ -47,6 +47,7 @@ const fetchRecipes = async (query) => {
 
 //function to fetch ingredients and measurements
 const fetchIngredients = (meal) => {
+  //console.log(meal)
   let ingredientList = "";
   for (let i = 1; i <= 20; i++) {
     const ingredient = meal[`strIngredient${i}`];
