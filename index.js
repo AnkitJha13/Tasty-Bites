@@ -13,7 +13,7 @@ const fetchRecipes = async (query) => {
   try {
 
     const data = await fetch(`https://www.themealdb.com/api/json/v1/1/search.php?s=${query}`);
-    const response = await data.json();
+    const response = await data.json();  // converts json data into Javascript object
 
     recipeContainer.innerHTML = "";
     response.meals.forEach(meal => {
